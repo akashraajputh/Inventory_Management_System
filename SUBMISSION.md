@@ -179,8 +179,4 @@ Deliverables in repository (path: `stockflow/`)
 - `README.md` — quick start and curl examples
 - `SUBMISSION.md` — this document
 
-If you want:
-- I can add GitHub Actions CI to run tests automatically on PRs/pushes.
-- I can expand bundle handling, reserved inventory, or add authentication/authorization.
-
 End of submission.
